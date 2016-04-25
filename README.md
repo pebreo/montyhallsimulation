@@ -20,7 +20,7 @@ or b) choose the other door that doesn't have a goat, in this case Door #2.
 
 -For the stay strategy
 
-1. Setup the board in `foo` function by choosing a goat
+1. Setup the board in `set_doors()` function by choosing a goat
 2. Set player selection by doing `selection = door1`
 3. Check if the player wins
 4. Add the result to `win_loss_result` list
