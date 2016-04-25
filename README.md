@@ -35,7 +35,7 @@ or b) choose the other door that doesn't have a goat, in this case Door #2.
 5. Check if the player wins
 6. Add the result to `win_loss_result` list
 
-After running through 1000 iterations, we run `bar` function and calculate
+After running through 1000 iterations, we run `calculate_stay_strategy` and `calculate_switch_strategy` function and calculate
 the win ratio `wins / (wins+losses)`. And that's it.
 
 ## Results
