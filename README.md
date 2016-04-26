@@ -2,7 +2,7 @@
 * Author: Paul Ebreo
 
 ## How To Run
-Click here for the .ipynb file above.
+Click the .ipynb file above.
 
 ## Purpose
 The Monty Hall puzzle is a puzzle that describes a situation where
